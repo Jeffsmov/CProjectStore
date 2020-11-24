@@ -1,0 +1,9 @@
+﻿  WindowsProject1.cpp
+D:\Documents\GitHub\Proga2 David\WindowsProject1\funciones.h(272,9): warning C4101: 'j': unreferenced local variable
+D:\Documents\GitHub\Proga2 David\WindowsProject1\funciones.h(376,9): warning C4101: 'j': unreferenced local variable
+D:\Documents\GitHub\Proga2 David\WindowsProject1\funciones.h(407,9): warning C4101: 'j': unreferenced local variable
+D:\Documents\GitHub\Proga2 David\WindowsProject1\funciones.h(551,9): warning C4101: 'j': unreferenced local variable
+D:\Documents\GitHub\Proga2 David\WindowsProject1\registro.h(68,15): warning C4101: 'bitmap01': unreferenced local variable
+D:\Documents\GitHub\Proga2 David\WindowsProject1\registro.h(69,12): warning C4101: 'oldBitmap01': unreferenced local variable
+D:\Documents\GitHub\Proga2 David\WindowsProject1\registro.h(71,15): warning C4101: 'hdcMem01': unreferenced local variable
+  WindowsProject1.vcxproj -> D:\Documents\GitHub\Proga2 David\Debug\WindowsProject1.exe
